@@ -2,7 +2,7 @@
 
 『다크 소울 3』의 보스전을 모작한 3인칭 소울라이크 액션 게임
 
-**Unreal Engine 5** · Blueprint
+**Unreal Engine 5** · Blueprint<br>
 UE 클라이언트 2인 · 개발 기간 4주
 
 ## 게임 소개
