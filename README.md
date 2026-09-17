@@ -5,7 +5,7 @@
 **Unreal Engine 5.6** · Blueprint<br>
 UE 클라이언트 2인 · 개발 기간 4주
 
-[시연 영상](https://youtu.be/cnK2GnQKoQM) · [상세 기술 문서](https://app.notion.com/p/3-349e6578029f803ca997ca90b28f1e71)
+[시연 영상](https://youtu.be/cnK2GnQKoQM) · [Notion](https://app.notion.com/p/3-349e6578029f803ca997ca90b28f1e71)
 
 ## 게임 소개
 
@@ -47,4 +47,3 @@ Unreal Engine 5.6 · Blueprint
 3. 에디터에서 플레이합니다.
 
 위 안내는 저장소의 프로젝트 파일과 기본 맵 설정을 기준으로 작성했습니다. 새 환경에서의 실행 여부는 별도로 검증하지 않았습니다.
-
